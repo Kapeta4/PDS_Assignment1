@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  GripStrength by Frailty
+t = 4.0762, df = 3.2293, p-value = 0.02314
+alternative hypothesis: true difference in means between group N and group Y is not equal to 0
+95 percent confidence interval:
+  1.49823 10.50177
+sample estimates:
+mean in group N mean in group Y 
+             29              23 
+

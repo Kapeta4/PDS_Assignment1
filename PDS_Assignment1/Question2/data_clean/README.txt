@@ -1,0 +1,1 @@
+The data provided is clean and there no outliers or Na values.
